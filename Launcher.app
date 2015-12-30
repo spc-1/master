@@ -1,1 +1,0 @@
-/Users/iMac/anaconda/envs/p34/Launcher.app
